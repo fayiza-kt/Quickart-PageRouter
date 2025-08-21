@@ -7,7 +7,7 @@ function CarousalSection() {
     <div>
       <Carousel>
       <Carousel.Item>
-        <img className="d-block w-100 h-10" src="https://m.media-amazon.com/images/I/71cJffyWqkL._SX3000_.jpg" alt="First slide" />
+        <img className="d-block w-100 h-10" src="https://m.media-amazon.com/images/I/71S1hk8tu6L._SX3000_.jpg" alt="First slide" />
       </Carousel.Item>
       <Carousel.Item>
         <img className="d-block w-100 h-10" src="https://m.media-amazon.com/images/I/71a8+gOXm+L._SX3000_.jpg" alt="Second slide" />
