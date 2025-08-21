@@ -22,7 +22,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
     <CartProvider>
       <div className={`${geistSans.variable} ${geistMono.variable}`}>
         <Header />
-        <main className="main-container p-3">
+        <main className="main-container main-body-description p-3">
           <Component {...pageProps} />
         </main>
         <Footer />
